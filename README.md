@@ -1,18 +1,23 @@
 # Gestion de projet Vue.js
 
 Ce projet est un blog développé avec Vue.js. 
+
 ## Installation
 
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
-- [Node.js](https://nodejs.org/) (version 14 ou supérieure)
-- [Vue CLI](https://cli.vuejs.org/) (installé via `npm install -g @vue/cli`)
+- [Vue CLI](https://cli.vuejs.org/) (installé via `npm install -g @vue/cli`) ![Vue Version](https://img.shields.io/badge/Vue.js-v3.2.13%2B-blue)
 
 Pour installer les dépendances nécessaires pour ce projet, suivez les étapes suivantes :
-
-1. Ouvrez votre terminal.
-2. Naviguez jusqu'au dossier du projet.
-3. Exécutez la commande `npm install`.
+1. Clonez le dépôt : 
+    ```bash
+    git@github.com:D-Seonay/ProjetGestionDeProjets.git    
+    ```
+2. Installez les dépendances avec `npm install``
+    ```bash
+    cd ProjetGestionDeProjets
+    npm install
+    ````
 
 ## Utilisation
 
